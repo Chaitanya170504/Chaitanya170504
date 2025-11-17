@@ -8,7 +8,7 @@
 - 🎓 **BTech in E&TC Engineering** from **K.K. Wagh Institute of Engineering Education & Research, Nashik** 
 - 👩‍💻 Passionate **MERN Stack Developer** with strong communication, teamwork, and problem-solving skills.
 - 💬 Ask me about **React.js, Node.js, Express.js, MongoDB, JavaScript, C++**.
-- 📫 Reach me: [rajeshnarwade67@gmail.com](mailto:chaitanyajajoo999@gmail.com) | [LinkedIn](https://www.linkedin.com/in/chaitanya-jajoo-a50412265/)
+- 📫 Reach me: [chaitanyajajoo999@gmail.com](mailto:chaitanyajajoo999@gmail.com) | [LinkedIn](https://www.linkedin.com/in/chaitanya-jajoo-a50412265/)
 ---
 
 ## 💻 Tech Stack:
